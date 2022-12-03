@@ -448,6 +448,8 @@ footer {
   justify-content: center;
   align-items: center;
   background: #4142;
+  padding-top: 34px;
+  padding-bottom: 34px;
 }
 
 .logContainer {
