@@ -1,4 +1,4 @@
-# Oscar - Capstone-project
+# sonu - Capstone-project
 
 - Responsive site from Mobile to desktop.
 - Based on [Cindy Shin in Behance](https://www.behance.net/adagio07) design.
