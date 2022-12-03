@@ -41,7 +41,7 @@ To get a local copy up and running follow these simple example steps:
 
 ## Authors
 
-👤 Oscar Bermudez
+👤 sonu prajapati 
 
 - GitHub: [@githubhandle](https://github.com/sonuengineer)
 - Twitter: [@twitterhandle](https://twitter.com/)
