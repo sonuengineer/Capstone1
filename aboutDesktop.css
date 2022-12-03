@@ -3,17 +3,6 @@
   display: none;
 }
 
-.small {
-  display: flex;
-  width: 100%;
-  justify-content: flex-end;
-}
-
-.home {
-  margin-right: 150px;
-  color: #272a31;
-}
-
 .titleAbout {
   align-self: center;
   font-size: 50px;
