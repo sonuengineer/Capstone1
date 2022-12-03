@@ -1,0 +1,31 @@
+.titleContainer,
+.sponsorCont {
+  display: none;
+}
+
+.titleAbout {
+  align-self: center;
+  font-size: 50px;
+  margin: 22px 0 0 0;
+  max-width: 700px;
+  text-align: center;
+}
+
+.introAbout {
+  max-width: 600px;
+}
+
+.fullC {
+  flex-direction: row;
+  max-width: 950px;
+  height: auto;
+  margin: 60px auto 80px auto;
+}
+
+.sidney {
+  margin-right: 5px;
+}
+
+.melbourne {
+  margin-left: 5px;
+}
