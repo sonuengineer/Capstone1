@@ -4,14 +4,14 @@
 - Based on [Cindy Shin in Behance](https://www.behance.net/adagio07) design.
 - Rock festival thematic.
 - Artist images from:
-  _radionica_,
-  _The Sun_,
-  _The Rolling Stones_,
-  and _Aspen Magazine_
+  _sonu_,
+  _neha khakker_,
+  _keilash kher_,
+  and _arjit singh_
 - Location image:
-  _Chiba-Japan Massive Convention Centre_,
-  _Sidney-Astelus image_,
-  and _Melbourne-Growpro image_
+  _mumbai delhi Centre_,
+  _indian image_,
+  and _mumbai image_
 - Icons source: [Google icons](https://fonts.google.com/icons)
 - Png images: [PNG Wing](https://www.pngwing.com/)
 
@@ -37,7 +37,7 @@
 To get a local copy up and running follow these simple example steps:
 
 - Go to the folder where you want to store the project, and clone the repository:
-- SSH: git@github.com:zkr024/Capstone-Project.git
+- SSH: git@github.com:sonuengineer/Capstone-Project.git
 
 ## Authors
 
