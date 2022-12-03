@@ -4,14 +4,7 @@
 - Based on [Cindy Shin in Behance](https://www.behance.net/adagio07) design.
 - Rock festival thematic.
 - Artist images from:
-  _sonu_,
-  _neha khakker_,
-  _keilash kher_,
-  and _arjit singh_
-- Location image:
-  _mumbai delhi Centre_,
-  _indian image_,
-  and _mumbai image_
+
 - Icons source: [Google icons](https://fonts.google.com/icons)
 - Png images: [PNG Wing](https://www.pngwing.com/)
 
