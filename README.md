@@ -53,7 +53,7 @@
 
 ## 🚀 Video <a name="video"></a>
 
-- [comming soon - Live Demo]()
+- [capstone project video](https://www.loom.com/share/137f993ad3ae4ce4bd4c9321e5e262a3)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
