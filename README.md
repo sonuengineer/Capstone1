@@ -44,7 +44,7 @@ To get a local copy up and running follow these simple example steps:
 👤 sonu prajapati 
 
 - GitHub: [@githubhandle](https://github.com/sonuengineer)
-- Twitter: [@twitterhandle](https://twitter.com/)
+- Twitter: [@twitterhandle](https://twitter.com/sonuprajapati)
 - LinkedIn: [LinkedIn](www.linkedin.com/in/)
 
 ## 🤝 Contributing
