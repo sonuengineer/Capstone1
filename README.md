@@ -49,7 +49,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [comming soon - Live Demo]()
+- [comming soon - Live Demo](https://courageous-klepon-641f45.netlify.app/)
 
 ## 🚀 Video <a name="video"></a>
 
